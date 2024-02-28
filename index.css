@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#dropzone {
+  border: 2px dashed #ccc;
+  height: 100%;
+  position: relative;
+}
+.draggable {
+  width: auto;
+  height: auto;
+  padding: 10px;
+  cursor: pointer;
+}
+#drag2 {
+  width: 100px;
+}
+input {
+  border: 1px solid red;
+}
+p {
+  color: #d60202;
+}
